@@ -1,13 +1,13 @@
 # interview-prep-java
 
-##This repo contains mostly common question in interview. Also covers frotnend.
+## This repo contains mostly common question in interview. Also covers frotnend.
 
-##Core Java
+### Core Java
 
-##Spring Boot
+### Spring Boot
 
-##AWS
+### AWS
 
-##Database
+### Database
 
-##Angular
+### Angular
